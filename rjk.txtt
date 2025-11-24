@@ -1,0 +1,149 @@
+{
+  "version": 5,
+  "update_time": "2025-10-26T08:00:00Z",
+  "splash_config": {
+    "enabled": true,
+    "image_url": "https://fb-cdn.fanbook.cn/fanbook/app/files/chatroom/image/12c256e74e6996ae04009ab441335733.jpg",
+    "link_url": "https://daoh.apkstool.cn/#/",
+    "duration": 3,
+    "skip_button_text": "跳过",
+    "cache_duration": 86400,
+    "show_on_first_launch": true
+  },
+  "list": [
+    {
+      "name": "学习资料#{https://unahui.lanzoul.com/b0hcyn16j}{0}",
+      "id": "1"
+    },
+    {
+      "name": "影视软件#{https://unahui.lanzoul.com/b00y3azfi}{0}",
+      "id": "2"
+    },
+    {
+      "name": "小说漫画#{https://unahui.lanzoul.com/b0hbvsg0j}{0}",
+      "id": "3"
+    },
+    {
+      "name": "实用软件#{https://www.lanzoux.com/b0khkhwb}{0}",
+      "id": "4"
+    },
+    {
+      "name": "科学上网#{https://unahui.lanzoul.com/b00y3a71g}{0}",
+      "id": "5"
+    }
+  ],
+  "default_description": "📱 软件使用说明\n\n打开黑屏多打开几次(如果不行证明软件已经失效 请等待更新或下载其他软件 请勿上当受骗)\n\n💡 温馨提示：\n1. 下载后直接安装使用\n2. 部分软件需要多次打开\n3. 请勿相信任何付费内容\n4. 如有问题请联系客服\n\n⚠️ 免责声明：\n所有软件均来自互联网，仅供学习交流使用。",
+  "default_screenshot": "https://icdn.binmt.cc/2511/691f005a49df2.jpg",
+  "mine_config": {
+    "function_cards": [
+      {
+        "id": "address",
+        "name": "永久地址",
+        "url": "https://unahui.lanzoul.com/b0hczrlkd"
+      },
+      {
+        "id": "contact",
+        "name": "商务合作",
+        "url": "https://t.me/mkscheng"
+      },
+      {
+        "id": "feedback",
+        "name": "问题反馈",
+        "url": "https://qm.qq.com/q/eA2uEOGTbG"
+      },
+      {
+        "id": "channel",
+        "name": "官方群聊",
+        "url": "https://m.baidu.com/"
+      }
+    ]
+  },
+  "discover_config": {
+    "announcement": "📢 请勿相信任何弹窗！永久免费更新！辉少软件库为您提供最优质的破解软件资源 🎁",
+    "banners": [
+      {
+        "id": "banner1",
+        "image_url": "https://fb-cdn.fanbook.cn/fanbook/app/files/chatroom/image/5942b0a41e4f36969c1d9febe8db86e4.jpg",
+        "title": "全网永久免费的软件仓库",
+        "link_url": "https://unahui.lanzoul.com/itAC42vw8aaj",
+        "order": 1
+      },
+      {
+        "id": "banner2",
+        "image_url": "https://fb-cdn.fanbook.cn/fanbook/app/files/chatroom/image/5942b0a41e4f36969c1d9febe8db86e4.jpg",
+        "title": "限时优惠活动",
+        "link_url": "https://unahui.lanzoul.com/itAC42vw8aaj",
+        "order": 2
+      },
+      {
+        "id": "banner3",
+        "image_url": "https://fb-cdn.fanbook.cn/fanbook/app/files/chatroom/image/5942b0a41e4f36969c1d9febe8db86e4.jpg",
+        "title": "最新软件推荐",
+        "link_url": "https://unahui.lanzoul.com/itAC42vw8aaj",
+        "order": 3
+      }
+    ],
+    "banner_config": {
+      "auto_play": true,
+      "interval": 3000,
+      "show_indicator": true
+    },
+    "notice_cards": [
+      {
+        "id": "virus",
+        "icon": "🛡️",
+        "title": "报毒问题",
+        "subtitle": "解决你心中的疑惑",
+        "url": "https://m.baidu.com/",
+        "color_theme": 1
+      },
+      {
+        "id": "share",
+        "icon": "🚀",
+        "title": "如何分享",
+        "subtitle": "分享给好友一起用",
+        "url": "https://m.baidu.com/",
+        "color_theme": 2
+      },
+      {
+        "id": "download",
+        "icon": "📥",
+        "title": "下载问题",
+        "subtitle": "下载相关疑问解答",
+        "url": "https://m.baidu.com/",
+        "color_theme": 3
+      },
+      {
+        "id": "software",
+        "icon": "❓",
+        "title": "软件问题",
+        "subtitle": "无法使用进来看看",
+        "url": "https://m.baidu.com/",
+        "color_theme": 4
+      },
+      {
+        "id": "request",
+        "icon": "🤖",
+        "title": "有求必应",
+        "subtitle": "提交你的需求",
+        "url": "https://m.baidu.com/",
+        "color_theme": 1
+      },
+      {
+        "id": "other",
+        "icon": "💬",
+        "title": "其他问题",
+        "subtitle": "其他相关问题",
+        "url": "https://m.baidu.com/",
+        "color_theme": 2
+      }
+    ]
+  },
+  "app_config": {
+    "force_update": false,
+    "latest_version": "3.0.0",
+    "download_url": "https://unahui.lanzoul.com/i9Nj43aqfipi",
+    "update_message": "新版本可用，建议更新，测试一下",
+    "min_supported_version": "3.0.0"
+  }
+}
